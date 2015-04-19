@@ -2,4 +2,4 @@
 hi.
 
 nothing else.
-I love coffee.
+I love :coffee:.
